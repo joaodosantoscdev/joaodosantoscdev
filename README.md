@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+<hr>
 <div>
   <p>“Take calculated risks with your career. Don’t let fear consume you. And if you’re not having fun, you’re not going to be excellent.”</p>
   <em> ― Chad Fowler, The Passionate Programmer: Creating a Remarkable Career in Software Development 📚</em>
