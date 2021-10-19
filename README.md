@@ -1,4 +1,4 @@
-# Hello ❕ my name is João Vítor Carvalho ❕
+## Hello ❕ my name is João Vítor Carvalho ❕
 
 <p>- 📋 Looking for Junior FullStack Web Developer job to fit in!</p>
 <p>- 🌱 I have experience with ReactJS, .NET platform.</p>
@@ -27,5 +27,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+<div>
+  <p>“Take calculated risks with your career. Don’t let fear consume you. And if you’re not having fun, you’re not going to be excellent.”</p>
+  <em> ― Chad Fowler, The Passionate Programmer: Creating a Remarkable Career in Software Development 📚</em>
+  <hr>
+</div>
 
-# joaodosantoscdev
+<strong>----João Vítor Carvalho 👨‍💻 ---</strong>
