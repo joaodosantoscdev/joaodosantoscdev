@@ -47,4 +47,4 @@
   <hr>
 </div>
 
-<strong>----João Vítor Carvalho 👨‍💻 ---</strong>
+##----João Vítor Carvalho 👨‍💻 ---
