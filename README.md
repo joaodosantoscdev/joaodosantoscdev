@@ -41,8 +41,8 @@
 <hr>
 
 <div>
-  <p text-align="center" >“Take calculated risks with your career. Don’t let fear consume you. And if you’re not having fun, you’re not going to be excellent.”</p>
-  <em text-align="center" > ― Chad Fowler, The Passionate Programmer: Creating a Remarkable Career in Software Development 📚</em>
+  <p>“Take calculated risks with your career. Don’t let fear consume you. And if you’re not having fun, you’re not going to be excellent.”</p>
+  <em >              ― Chad Fowler, The Passionate Programmer: Creating a Remarkable Career in Software Development 📚</em>
   <hr>
 </div>
 
