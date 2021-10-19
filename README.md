@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave&langs_count=6"/>
 </div>
 
-<h2>Tecnologies</h2>
+<h2>Technologies 💻</h2>
 <div style="display: inline-block"><br>
   <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,4 +17,10 @@
   <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 </div>
+
+<h2>Contact 📱</h2>
+<div>
+  <a href="mailto:joaovitor.sc.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
 # joaodosantoscdev
