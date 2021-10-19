@@ -19,8 +19,13 @@
 </div>
 
 <h2>Contact 📱</h2>
-<div>
-  <a href="mailto:joaovitor.sc.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div style="display: flex; allign-items: center">
+  <a href="mailto:joaovitor.sc.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joaodosc-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 # joaodosantoscdev
