@@ -10,8 +10,8 @@
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodosantoscdev&theme=synthwave&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodosantoscdev&layout=compact&theme=synthwave&langs_count=6"/>
+  <img height="170emsrc="https://github-readme-stats.vercel.app/api?username=joaodosantoscdev&theme=synthwave&show_icons=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodosantoscdev&layout=compact&theme=synthwave&langs_count=6"/>
 </div>
 
 <br>
