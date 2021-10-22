@@ -1,4 +1,4 @@
-## Hello ❕ my name is João Vítor Carvalho ❕
+## Hello ❕ I'm João Vítor Carvalho ❕
 
 <ul>
   <li> 📋 Looking for Junior FullStack Web Developer job to fit in!</li>
