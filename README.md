@@ -19,22 +19,22 @@
 <h2>Technologies 💻</h2>
 
 <div style="display: inline-block"><br>
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img allign="center" height="50px" width="60px" allign="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 </div>
 
 <h2>How to contact me 📱</h2>
 <br>
-<div style="display: flex; allign-items: center">
-  <a href="mailto:joaovitor.sc.dev@gmail.com" target="_blank">
+<div style="display: inline_block">
+  <a allign="center" href="mailto:joaovitor.sc.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/joaodosc-dev/" target="_blank">
+  <a allign="center" href="https://www.linkedin.com/in/joaodosc-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
