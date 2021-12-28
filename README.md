@@ -3,7 +3,7 @@
 <ul>
   <li> 📋 Looking for Junior FullStack Web Developer job to fit in!</li>
   <li> 🌱 I have experience with ReactJS, .NET platform.</li>
-  <li> 🧑🏻‍💻 Currently studying about RESTfull services, software archtecture and back-end technologies!</li>
+  <li> 🧑🏻‍💻 Currently studying about RESTfull services, software archtecture and back-end technologies / working with frontend Angular development!</li>
   <li> 🙇🏼 I want to collaborate on any sort of project possible! Learning something new everyday is what makes live exciting!</li>
 </ul>
 
