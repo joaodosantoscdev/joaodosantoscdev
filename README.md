@@ -1,6 +1,6 @@
 ## Hello ❕ I'm João Vítor Carvalho ❕
 <div>
-  <a src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"><a/>
+  <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"></img>
 </div>
 <ul>
   <li> 📋 Looking for Junior FullStack Web Developer job to fit in!</li>
