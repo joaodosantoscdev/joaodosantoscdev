@@ -7,8 +7,8 @@
 <hr>
 <br>
 <ul>
-  <li> 📋 Looking for Junior FullStack Web Developer job to fit in!</li>
-  <li> 🌱 I have experience with ReactJS, Angular, .NET platform, Sql Server/MySQL/SQLite for projects, and GIT as VCS.</li>
+  <li> 📋 Analist/Software Developer Jr on Midas Solutions!</li>
+  <li> 🌱 I have experience with ReactJS, Angular, .NET platform, Oracle/MySQL/SQLite for projects, and GIT as VCS.</li>
   <li> 🧑🏻‍💻 Currently studying about software archtecture and back-end technologies / working with Angular frontend development!</li>
   <li> 🙇🏼 I want to collaborate on any sort of project possible! Learning something new everyday is what makes live exciting!</li>
 </ul>
